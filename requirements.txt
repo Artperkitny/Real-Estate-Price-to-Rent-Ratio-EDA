@@ -1,0 +1,11 @@
+seaborn==0.10.1
+numpy==1.15.0
+Shapely==1.6.4.post2
+geoplot==0.2.4
+contextily==1.0rc1
+pandas==0.23.4
+scipy==0.19.1
+matplotlib==2.2.2
+geopandas==0.4.0
+adjustText==0.7.3
+scikit_learn==0.23.1
